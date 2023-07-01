@@ -1,7 +1,8 @@
 const msg: string = "Hola mundo";
 
-const hero = {
+/* const hero = {
   name: "Ironman",
   age: 45,
-};
-console.log(hero.age);
+}; */
+
+console.log(msg);
