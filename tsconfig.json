@@ -112,6 +112,7 @@
   "include": [
     // "es6"
     // "classes"
-    "interfaces"
+    // interfaces"
+    "namespaces"
   ]
 }
