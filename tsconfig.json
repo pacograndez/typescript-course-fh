@@ -111,6 +111,7 @@
   ],
   "include": [
     // "es6"
-    "classes"
+    // "classes"
+    "interfaces"
   ]
 }
