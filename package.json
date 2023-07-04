@@ -1,0 +1,27 @@
+{
+  "name": "typescript-course-fh",
+  "version": "1.0.0",
+  "description": "Curso Typescript: Guía completa y manual de mano - Fernando Herrera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buid": "",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacograndez/typescript-course-fh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pacograndez/typescript-course-fh/issues"
+  },
+  "homepage": "https://github.com/pacograndez/typescript-course-fh#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
+}
